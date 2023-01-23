@@ -81,6 +81,8 @@ function enviarMensagem(){
     enviar.catch(erro);
 }
 
-
+function abrirAbaLateral(){
+    
+}
 
 verificarUsuario();

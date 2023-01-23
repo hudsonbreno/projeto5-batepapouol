@@ -51,6 +51,10 @@ footer input {
     color: #000000;
 }
 
+footer button {
+    border: 0px;
+    background-color: #FFFFFF;
+}
 footer ion-icon{
     width: 26px;
     height: 26px;
