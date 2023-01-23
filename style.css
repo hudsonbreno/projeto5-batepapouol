@@ -77,3 +77,26 @@ article {
     font-size: 14px;
     word-break: break-word;
 }
+
+.status {
+    background-color: #DCDCDC;
+}
+
+.message{
+    background-color: #FFFFFF;
+}
+
+.private_message {
+    background-color: #FFDEDE;
+}
+
+.h1 {
+    font-weight: 700;
+    color: #000000;
+
+}
+
+.h2{
+    font-weight: 400;
+    color: #AAAAAA;
+}
